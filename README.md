@@ -4,6 +4,7 @@
 
 ### Sobre mim ###
 
+Meu nome é <b>Júlio César Vitor</b> e tenho 30 anos. Moro em Belo Horizonte, Minas Gerais, e trabalho com tecnologia desde meus 15 anos de idade. Sou pai de um menino incrível que traz muita alegria à minha vida. Há quatro anos, dedico-me à área de programação, onde atuo em projetos complexos, principalmente no setor de varejo e energia. Esses anos de experiência permitiram-me desenvolver habilidades e conhecimentos valiosos, contribuindo significativamente para o meu crescimento profissional no campo da tecnologia.
 
 ---
 
