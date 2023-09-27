@@ -34,6 +34,7 @@
   [<img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org/ "React")
   [<img align="center" alt="Sequelize" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />](https://sequelize.org/ "Sequelize")
   [<img align="center" alt="Ubuntu" height="30" width="30" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />](https://ubuntu.com/ "Ubuntu")
+  [<img align="center" alt="Bitbucket" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />](https://bitbucket.org/")
  </div>
 
         
