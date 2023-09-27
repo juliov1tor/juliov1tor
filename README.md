@@ -39,6 +39,25 @@ Meu nome é <b>Júlio César Vitor</b> e tenho 30 anos. Moro em Belo Horizonte, 
   [<img align="center" alt="Bitbucket" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />](https://bitbucket.org/")
  </div>
 
-        
+##
+
+### Links
+
+<div align=center>
+
+```{r klippy, echo=FALSE, include=TRUE}
+juliocesarvit99@gmail.com
+```
+</div>
+
+<div align=left>
+
+  [<img height="30" align="center" width="auto" src="./img/linkedin_logo.png">](https://www.linkedin.com/in/julio-cesar-vitor/ "Linkedin")
+  [<img align="center" height="30" width="auto" src="./img/cv_logo.webp" />](https://drive.google.com/file/d/1ZCkUozkzB9BYUeJW5Kz3swd8nIB8Mdck/view?usp=drive_link)
+  [<img align="center" height="30" width="auto" src="./img/email_logo.png">](mailto:juliocesarvit99@gmail.com "E-mail")
+  
+
+
+</div>        
 
 ##
