@@ -23,6 +23,7 @@
   [<img align="center" alt="Express" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />](https://expressjs.com/ "Express")
   [<img align="center" alt="Git" height="30" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />](https://git-scm.com/ "Git")
   [<img align="center" alt="Html" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />](https://www.w3.org/html/ "Html")
+  [<img align="center" alt="CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />](https://www.w3.org/html/](https://www.css3.com/) "CSS")
   [<img align="center" alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript")
   [<img align="center" alt="Jest" height="30" width="30" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />](https://jestjs.io "Jest")
   [<img align="center" alt="Linux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />](https://www.linux.org/ "Linux")
