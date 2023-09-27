@@ -27,7 +27,7 @@
   [<img align="center" alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript")
   [<img align="center" alt="Jest" height="30" width="30" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />](https://jestjs.io "Jest")
   [<img align="center" alt="Linux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />](https://www.linux.org/ "Linux")
-  [<img align="center" alt="GitHub height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://getbootstrap.com](https://github.com/) "GitHub")
+  [<img align="center" alt="GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/) "GitHub")
   [<img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>](https://www.mysql.com/ "MySQL")
   [<img align="center" alt="PostgreSql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />](https://www.mysql.com/](https://www.postgresql.org/) "Postgresql")
   [<img align="center" alt="Postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />](https://learning.postman.com/docs/developer/intro-api/ "Postman")
